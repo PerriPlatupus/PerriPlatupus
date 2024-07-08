@@ -11,6 +11,4 @@
 PerriPlatupus/PerriPlatupus - это "особый" репозиторий, потому что его "README.md` (этот файл) отображается в вашем профиле на GitHub.
 Вы можете перейти по ссылке предварительного просмотра, чтобы ознакомиться с внесенными изменениями.
 --->
-![alt text][logo]
-
-[logo]: [https://github.com/PerriPlatupus/mainpage/blob/main/Agent.png] ""
+![alt text](https://github.com/PerriPlatupus/mainpage/blob/main/Agent.png)""
