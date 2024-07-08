@@ -13,4 +13,4 @@ PerriPlatupus/PerriPlatupus - это "особый" репозиторий, по
 --->
 ![alt text][logo]
 
-[logo]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://www.pinclipart.com/picdir/big/489-4896606_fedora-transparent-png-fedora-perry-the-platypus-clipart.png) ""
+[logo]: [https://github.com/PerriPlatupus/mainpage/blob/main/Agent.png] ""
