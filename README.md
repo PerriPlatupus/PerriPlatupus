@@ -11,7 +11,6 @@
 PerriPlatupus/PerriPlatupus - это "особый" репозиторий, потому что его "README.md` (этот файл) отображается в вашем профиле на GitHub.
 Вы можете перейти по ссылке предварительного просмотра, чтобы ознакомиться с внесенными изменениями.
 --->
-         _.-^~~^^^`~-,_,,~''''''```~,''``~'``~,
- ______,'  -o  :.  _    .          ;     ,'`,  `.
-(      -\.._,.;;'._ ,(   }        _`_-_,,    `, `,
- ``~~~~~~'   ((/'((((____/~~~~~~'(,(,___>      `~'
+![alt text][logo]
+
+[logo]: [https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png](https://www.pinclipart.com/picdir/big/489-4896606_fedora-transparent-png-fedora-perry-the-platypus-clipart.png) ""
